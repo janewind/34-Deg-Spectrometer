@@ -1,0 +1,15 @@
+Optics：
+Double convex lens: D12.7mm, F50mm, R=51.5mm（2pieces）
+
+Hardware：
+M2*8（8 pieces）
+
+3D printing：
+3D printing shell material: PETG
+PETG recommended parameters: 
+printing temperature of 250-260 degrees,
+speed of 50,
+layer thickness of 0.2,
+hot bed 60-75,
+extraction length of 6,
+extraction speed of 50.
