@@ -1,0 +1,26 @@
+Optics：
+Glass slit: slit width 7 microns, slit length 13mm, 16 * 10mm, thickness 2mm
+Collimator: D25.4mm, F75mm
+Objective lens: D25.4mm, F125mm
+Diffraction grating: 25 * 25 * 6mm, 2400 lines，center wavelength 500nm
+
+Hardware：
+M2*8（4 pieces）
+M4 nut（8 pieces）
+M4*8*6 knurled nut（18 pieces）
+M4*70（7 pieces）
+M4*6（9pieces）
+M4*12（6pieces）
+M4*18（4pieces）
+M4*30（4 pieces）
+M4*45（4 pieces）
+
+3D printing：
+3D printing shell material: PETG
+PETG recommended parameters: 
+printing temperature of 250-260 degrees,
+speed of 50,
+layer thickness of 0.2,
+hot bed 60-75,
+extraction length of 6,
+extraction speed of 50.
