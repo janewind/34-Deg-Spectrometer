@@ -1,4 +1,5 @@
 中文说明：
+
 写在最前端：基于Eol’Ex光谱仪原理，进行了结构修改，以提高外壳整体强度较高。
 
 V1：基于单双凸透镜设计的光管、外壳，因此尺寸更加紧凑。V1中的准直镜为单双凸透镜，透过波段为350-700nm，外径25.4mm，焦距75mm。V1中的成像物镜为单双凸透镜，透过波段为350-700nm，外径25.4mm，焦距125mm。
@@ -10,6 +11,7 @@ V2：基于双胶合透镜设计的光管、外壳，因此尺寸相比V1稍大�
 螺旋调焦座：为了降低成本、减轻整机重量，设计了一款3D打印的螺旋调焦座，可替换全金属双螺旋调焦座。
 
 English explanation：
+
 Written at the forefront: Based on the principle of Eol'Ex spectrometer, structural modifications have been made to improve the overall strength of the shell.
 
 V1: A light tube and casing designed based on a single and double convex lens, resulting in a more compact size. The collimator in V1 is a single biconvex lens with a transmission band of 350-700nm, an outer diameter of 25.4mm, and a focal length of 75mm. The imaging objective in V1 is a single biconvex lens with a transmission band of 350-700nm, an outer diameter of 25.4mm, and a focal length of 125mm.
