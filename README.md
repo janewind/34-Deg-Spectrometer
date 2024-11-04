@@ -2,6 +2,8 @@
 
 写在最前端：基于Eol’Ex光谱仪原理，进行了结构修改，以提高外壳整体强度较高。
 
+目前的V4.3具有的特点：1.取消外置光管，一体式机身；2.狭缝外部旋转拨杆；3.准直镜光管外部旋转拨盘；4.外置式成像镜片校准棱镜。
+
 ----------
 光谱仪更新历史：
 
@@ -17,6 +19,15 @@ V4.3：2024年11月04日，增加盖板开窗，增加潜望式校准棱镜，�
 指向器：2024年03月17日，与原版基本一致，唯一的不同是对相机成像镜头的光管进行了修改，以中国大陆能够采购的微小镜片尺寸而设计。具体参数见指向器文件夹内txt文档。
 
 螺旋调焦座：2024年05月13日，为了降低成本、减轻整机重量，设计了一款3D打印的螺旋调焦座，可替换全金属双螺旋调焦座。
+
+----------
+使用方法：
+
+1.相机放入成像镜调焦座，对准任意天空，根据画面进行旋转相机和微调狭缝，让谱线在相机画面中横平竖直；
+2.插入成像镜校准棱镜，在校准棱镜上额外增加一个1.25天顶镜，1.25天顶镜前端增加一片UV/IR cut，然后对准窗外较远处任意目标进行校准，即完成成像透镜校准；
+3.将光谱仪接入望远镜调焦座，光栅拨盘旋转至要观测的谱线并居中，微调准直镜拨盘进行准直透镜的校准，谱线清晰为准，即完成准直透镜校准；
+4.微调望远镜调焦旋钮，让垂直于谱线众多小细线最多的时候，即望远镜焦点落在狭缝上；
+5.此时，可以对太阳进行扫描拍摄。
 
 ——————————
 
@@ -40,3 +51,13 @@ Accessory update history:
 Pointer: On March 17, 2024, it is basically the same as the original version. The only difference is that the light tube of the camera imaging lens has been modified, and it is designed according to the size of micro lenses that can be purchased in Chinese Mainland. Please refer to the txt document in the pointer folder for specific parameters.
 
 Spiral focusing seat: On May 13, 2024, in order to reduce costs and overall weight, a 3D printed spiral focusing seat was designed, which can replace the all metal double spiral focusing seat.
+
+----------
+usage method:
+
+1. Place the camera in the focusing seat of the imaging mirror, aim it at any sky, rotate the camera and fine tune the slit according to the image, so that the spectral lines are horizontal and vertical in the camera image;
+2. Insert the imaging mirror calibration prism, add an additional 1.25 zenith mirror on the calibration prism, add a UV/IR cut at the front end of the 1.25 zenith mirror, and then align it with any target farther outside the window for calibration, completing the imaging lens calibration;
+3. Connect the spectrometer to the focusing seat of the telescope, rotate the grating dial to the spectral line to be observed and center it, fine tune the collimator dial to calibrate the collimator lens. The spectral line is clear as the standard, and the collimator lens calibration is completed;
+4. Fine tune the focusing knob of the telescope so that the focus of the telescope falls on the slit when there are the most small lines perpendicular to the spectral line;
+At this point, the sun can be scanned and photographed.
+
