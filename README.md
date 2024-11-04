@@ -1,4 +1,5 @@
 中文说明：
+
 写在最前端：基于Eol’Ex光谱仪原理，进行了结构修改，以提高外壳整体强度较高。
 
 ----------
@@ -15,9 +16,11 @@ V4.3：2024年11月04日，增加盖板开窗，增加潜望式校准棱镜，�
 
 螺旋调焦座：2024年05月13日，为了降低成本、减轻整机重量，设计了一款3D打印的螺旋调焦座，可替换全金属双螺旋调焦座。
 
-——————————————————————————————————————————————————————————————————————
+——————————
+
 
 English explanation:
+
 At the forefront: Based on the principle of Eol'Ex spectrometer, structural modifications have been made to improve the overall strength of the casing.
 
 ----------
