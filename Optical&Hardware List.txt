@@ -1,0 +1,30 @@
+Optics:
+Glass slit: slit width 7 microns, slit length 13mm, 16 * 10mm, thickness 2mm;
+Diffraction grating: 25 * 25 * 6mm, 2400 lines, center wavelength 500nm;
+Collimator lens: D25.4mm, F80mm;
+Imaging lenses: D25.4mm, F125mm;
+Auxiliary focusing prism: 20 * 20 * 20 triangular prism (inclined surface can be coated or not coated).
+
+
+Hardware:
+M2 * 8 (2 pieces)
+M4 * 18 (1 piece)
+M4 * 12 (8 pieces)
+M4 * 8 * 6 knurled nuts (16 pieces)
+M4 * 6 (3 pieces)
+M4 nuts (8 pieces)
+M4 * 30 (8 pieces)
+M4 * 45 (7 pieces)
+
+3D printing suggestions:
+ABS material:
+It is recommended to use ABS material for the shell as it has high temperature resistance and strong deformation resistance. However, toxic gases will be generated during the printing process, so self printing is not recommended.
+
+PETG material:
+PETG recommended parameters (choose manufacturer provided settings parameters as much as possible):
+The printing temperature is 250-260 degrees,
+The speed is 50,
+The layer thickness is 0.2,
+Hot bed 60-75,
+Extract a length of 6,
+The extraction speed is 50.
